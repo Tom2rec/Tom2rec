@@ -14,6 +14,4 @@ I live in Cracow and studying Computer Science and Artificial Intelligence at US
 - Database development using **Postgresql**
 
 ## 📈 Github Stats
-![Tom Turek's Github Stats](https://github-readme-stats.vercel.app/api/?username=Tom2rec&show_icons=true&theme=darcula&hide_border=true)
-
-![Tom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom2rec&langs_count=8&theme=darcula&hide_border=true)
+![Tom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom2rec&langs_count=8&theme=darcula&hide_border=true&layout=compact) ![Tom Turek's Github Stats](https://github-readme-stats.vercel.app/api/?username=Tom2rec&show_icons=true&theme=darcula&hide_border=true&layout=compact)
